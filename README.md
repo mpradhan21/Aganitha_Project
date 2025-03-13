@@ -45,6 +45,6 @@ Add a web-based interface for easier use
 Expand the non-academic keyword list
 
 
-# License(H2)
+# License
 
 📜 MIT License – Free to use and modify
