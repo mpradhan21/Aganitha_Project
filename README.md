@@ -1,11 +1,11 @@
-PUBMED PAPER FILTERING SYSTEM (H1)
+# PUBMED PAPER FILTERING SYSTEM 
 
 
-Overview (H2)
+# Overview 
 
 This project is designed to identify and filter non-academic papers from PubMed search results. It retrieves scientific articles based on a given query, extracts metadata, and classifies papers based on author affiliations. The goal is to separate research from academic institutions and industry-affiliated organizations (e.g., biotech and pharmaceutical companies).
 
-Features (H2)
+# Features 
 
 ✔️ Fetches research papers from PubMed using the Entrez API
 
@@ -16,7 +16,7 @@ Features (H2)
 ✔️ Saves the filtered results to a structured CSV file
 
 
-How It Works: (H2)
+# How It Works: 
 
 Fetch Papers: The script queries PubMed for a given topic and retrieves relevant article IDs.
 
@@ -26,17 +26,17 @@ Filter Non-Academic Papers: Affiliations are analyzed to determine if they belon
 
 Save Results: The filtered data is stored in results.csv with columns:
 
-PubMed ID
+- PubMed ID
 
-Title
+- Title
 
-Publication Date
+- Publication Date
 
-Non-Academic Authors
+- Non-Academic Authors
 
-Company Affiliation
+- Company Affiliation
 
-Future Improvements:(H2)
+# Future Improvements:
 
 Enhance filtering accuracy using machine learning
 
@@ -45,6 +45,6 @@ Add a web-based interface for easier use
 Expand the non-academic keyword list
 
 
-License(H2)
+# License(H2)
 
 📜 MIT License – Free to use and modify
