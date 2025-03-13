@@ -36,7 +36,7 @@ Save Results: The filtered data is stored in results.csv with columns:
 
 - Company Affiliation
 
-# Future Improvements:
+# Future Improvements
 
 Enhance filtering accuracy using machine learning
 
