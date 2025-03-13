@@ -16,7 +16,7 @@ This project is designed to identify and filter non-academic papers from PubMed 
 ✔️ Saves the filtered results to a structured CSV file
 
 
-# How It Works: 
+# How It Works
 
 Fetch Papers: The script queries PubMed for a given topic and retrieves relevant article IDs.
 
